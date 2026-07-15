@@ -24,8 +24,6 @@ I am interested not only in finding bugs but also in understanding product logic
 
 # 🛠 Technical Skills
 
-## 🧪 Testing
-
 * Manual Testing
 * Functional Testing
 * Regression Testing
@@ -37,20 +35,20 @@ I am interested not only in finding bugs but also in understanding product logic
 * Test Case Design
 * Bug Reporting
 * Verification & Validation
-* **Postman** — creating requests, working with collections, validating API responses
-* **Swagger** — reviewing and testing API documentation
+* Postman — creating requests, working with collections, validating API responses
+* Swagger — reviewing and testing API documentation
 * REST API Testing
 * Analysis of HTTP requests and responses
-* **Android Studio**
+* Android Studio
 * Testing Android applications
 * Checking logs and application behavior
 * Working with emulators and real devices
-* **Charles Proxy**
+* Charles Proxy
 * HTTP/HTTPS traffic analysis
 * Intercepting and investigating requests
 * Troubleshooting client-server communication issues
-* **Linux** — basic command line usage, working with files and processes
-* **Docker** — running and working with containers
+* Linux — basic command line usage, working with files and processes
+* Docker — running and working with containers
 * Git / GitHub
 * Jira
 * Confluence
@@ -74,12 +72,6 @@ My work:
 📌 https://docs.google.com/spreadsheets/d/1sLYLSJABiB-8W5sD_bR2GXxUdznDXlFye9MpfqBCP50/edit?usp=sharing
 
 📌 https://docs.google.com/spreadsheets/d/1x-JeCQgsp04QwDwYpfWXs3Ne9LSG2pdnS_1n6sHbTd0/edit?usp=sharing
-
----
-
-# 📫 Contact Me
-
-📧 Email: [yuliamarusevich.job@gmail.com](mailto:yuliamarusevich.job@gmail.com)
 
 ---
 
