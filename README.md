@@ -37,69 +37,29 @@ I am interested not only in finding bugs but also in understanding product logic
 * Test Case Design
 * Bug Reporting
 * Verification & Validation
-
----
-
-## 🌐 API Testing
-
 * **Postman** — creating requests, working with collections, validating API responses
 * **Swagger** — reviewing and testing API documentation
 * REST API Testing
 * Analysis of HTTP requests and responses
-
----
-
-## 📱 Mobile Testing
-
 * **Android Studio**
 * Testing Android applications
 * Checking logs and application behavior
 * Working with emulators and real devices
-
----
-
-## 🔍 Network & Debugging Tools
-
 * **Charles Proxy**
 * HTTP/HTTPS traffic analysis
 * Intercepting and investigating requests
 * Troubleshooting client-server communication issues
-
----
-
-## 🐧 Operating Systems & DevOps Tools
-
 * **Linux** — basic command line usage, working with files and processes
 * **Docker** — running and working with containers
 * Git / GitHub
-
----
-
-## 📋 Documentation & Management
-
 * Jira
 * Confluence
 * TestRail
 * Google Sheets
 * Markdown
-
----
-
-## 🗄 Databases
-
-* SQL (basic level)
+* SQL
 * Database data validation
 * Writing simple SQL queries
-
----
-
-# 📚 Currently Learning
-
-🌱 Test Automation
-🌱 Python for QA
-🌱 Selenium / Playwright
-🌱 Advanced API Testing
-🌱 CI/CD processes
 
 ---
 
