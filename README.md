@@ -119,8 +119,6 @@ My work:
 
 # 📫 Contact Me
 
-💼 GitHub: https://github.com/JuliaMarusevich
-
 📧 Email: [yuliamarusevich.job@gmail.com](mailto:yuliamarusevich.job@gmail.com)
 
 ---
